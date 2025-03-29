@@ -26,11 +26,8 @@ In this workshop you will learn:
 
 ## Prerequisites
 
-Microsoft will provide:
-- A Fabric environment (including tenant, capacity, and workspace) for the **day of the workshop only**. 
-
-Attendees will need to provide:
-- Computer with an internet connection
+You will need:
+- A Fabric environment capacity.
 
 ## Solution overview
 
@@ -104,4 +101,4 @@ The notebook is structured the same way as the GitHub repo:
 
 With all the background out of the way, it's time to get to the fun part!
 
-Head over to [Lab 1 - Getting started](<labs/01 - Getting started.md>)
+Head over to [Lab 0 - Lab environment setup](<labs/00 - Lab environment setup.md>)
